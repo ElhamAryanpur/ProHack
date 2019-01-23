@@ -11,6 +11,10 @@ Everyone Around The Globe Has Their Own Social Media Either If Its FaceBook, Ins
 And Most Importantly:
 - Dark Theme With Green Text! Flavor Of Both Hackers And Programmers!
 
+# Requirements:
+- Python 3.6.7
+- Internet
+
 # Getting ProHack:
    Head Over To Releases Of This Repo And Find Your Version Of Need. Then Click On Pro_Hack.zip to Download The Prohack. After Download Finished, Extract The Zip And Double Click On Reg.exe To Register An Account. If You Already Have An Account, Then You Can Directly Open Main.exe To Start Up ProHack! WELCOME!
 
