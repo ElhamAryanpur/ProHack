@@ -13,6 +13,13 @@ And Most Importantly:
 
 # Getting ProHack:
    Head Over To Releases Of This Repo And Find Your Version Of Need. Then Click On Pro_Hack.zip to Download The Prohack. After Download Finished, Extract The Zip And Double Click On Reg.exe To Register An Account. If You Already Have An Account, Then You Can Directly Open Main.exe To Start Up ProHack! WELCOME!
+
+# Usage:
+As Programmers And Hackers Love, There Is Not Button In ProHack! Commands Avaliable For Now Are:
+- post.feed:
+   - This Command Let You Post One Line Message Into ProHack!
+- read.feed:
+   - This Command Let You Read The Feeds From Others Posted In ProHack!
   
 # Common Problem Solving:
 - Auto-Closing When Trying To Open: If The Files Auto Close, Here Are Some Solutions:
