@@ -31,7 +31,8 @@ This program is very easy to hack for most of you! But Remember that I worked ve
 
 # THIS PROJECT IS CURRENTLY IN BETA! PLEASE SUPPORT ME TO SPEED UP THE PROCESS!
 
-# SUPPORT ME: patreon.com/elhamaryanpur
+# SUPPORT ME: 
+- patreon.com/elhamaryanpur
 
-Facebook: facebook.com/elham.aryanpur.10
-Instagram: instagram.com/elham_aryanpur
+- Facebook: facebook.com/elham.aryanpur.10
+- Instagram: instagram.com/elham_aryanpur
