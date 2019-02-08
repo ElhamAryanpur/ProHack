@@ -33,7 +33,7 @@ As Programmers And Hackers Love, There Is Not Button In ProHack! Commands Avalia
 - Can Not Use Main.exe: If You Get Errors Or Closing After Logging In Main.exe, Here Are Solutions:
   - Check If You Made An Account! Open reg.exe To Make One!
   - Check For Internet Connection To Be Stable!
-- Not Working On Linux Or Mac: This Version Is Made For Windows! Linux And Mac Versions Will Be Released Soon!
+- Not Working On Mac: This Version Is Made For Windows and Linux! Mac Version Will Be Released Soon!
 - If Any Other Problems Occured, Please Contact Me! Links Are At Bottom!
 
 # NOTE: 
